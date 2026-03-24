@@ -1,4 +1,4 @@
-# nsh - The Natural Shell
+This project looks very much innovative # nsh - The Natural Shell
 
 *Your shell already saw you fail - now it can actually help*
 
